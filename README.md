@@ -16,7 +16,7 @@ This project presents an interactive Healthcare Sales Dashboard built using Powe
 - Excel / CSV Dataset
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📌 Insights
 - Branch C has highest sales
